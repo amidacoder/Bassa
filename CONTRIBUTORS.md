@@ -2,4 +2,4 @@ CONTRIBUTORS
 ============
 
  - Milindu Sanoj Kumarage (agentmilindu)
- - Mimche Njikam Amida (amidacoder)
+ - Mimche Njikam Amida  (amidacoder)
